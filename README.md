@@ -1,7 +1,7 @@
 ### Hi there, I'm Seb 👋
 
-[![Website](https://img.shields.io/website?label=sebastienlevert.com&style=for-the-badge&url=https%3A%2F%2Fwww.sebastienlevert.com)](https://www.sebastienlevert.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sebastienlevert?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsebastienlevert&screen_name=sebastienlevert)
+[![Website](https://img.shields.io/website?label=sebastienlevert.com&style=for-the-badge&url=https%3A%2F%2Fwww.sebastienlevert.com)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/sebastienlevert?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 ## I'm a Husband, Developer, Architect and Product Manager!
 
@@ -71,6 +71,6 @@
 
 [valo-website]: https://www.valointranet.com
 [website]: https://www.sebastienlevert.com
-[twitter]: https://twitter.com/sebastienlevert
+[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsebastienlevert&screen_name=sebastienlevert
 [youtube]: https://www.youtube.com/channel/UCnnGypiyUKntbpJQIFIOGNw
 [linkedin]: https://linkedin.com/in/sebastienlevert
