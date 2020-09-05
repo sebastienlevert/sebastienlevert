@@ -47,20 +47,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Webinar - 2020-03-24 - Build Your First Microsoft Teams App  Using SPFx](https://www.youtube.com/watch?v=hGGVUtAr--8)
-- [Join me at SharePoint Conference 2020!](https://www.youtube.com/watch?v=oAjD6FT8o3Q)
-- [[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx](https://www.youtube.com/watch?v=j-U7WuEQBig)
-- [[Office 365 Sparx] How to use search for your Hubsite data using the SharePoint Search API](https://www.youtube.com/watch?v=Yydlwq15gF8)
-- [[Office 365 Sparx] How to use the Browser Preview VS Code extension with #SPFx](https://www.youtube.com/watch?v=Ad8eq7gB4Cg)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...][youtube]
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -72,6 +58,20 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Webinar - 2020-03-24 - Build Your First Microsoft Teams App  Using SPFx](https://www.youtube.com/watch?v=hGGVUtAr--8)
+- [Join me at SharePoint Conference 2020!](https://www.youtube.com/watch?v=oAjD6FT8o3Q)
+- [[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx](https://www.youtube.com/watch?v=j-U7WuEQBig)
+- [[Office 365 Sparx] How to use search for your Hubsite data using the SharePoint Search API](https://www.youtube.com/watch?v=Yydlwq15gF8)
+- [[Office 365 Sparx] How to use the Browser Preview VS Code extension with #SPFx](https://www.youtube.com/watch?v=Ad8eq7gB4Cg)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
 
 [valo-website]: https://www.valointranet.com
 [website]: https://www.sebastienlevert.com
