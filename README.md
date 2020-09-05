@@ -25,7 +25,7 @@
 
 <img align="left" alt="SharePoint" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Microsoft_Office_SharePoint_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_SharePoint_%282018%E2%80%93present%29.svg.png" />
 <img align="left" alt="Office 365" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1200px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" />
-<img align="left" alt="Office 365" width="26px" src="assets/graph.png" />
+<img align="left" alt="Office 365" width="26px" src="https://raw.githubusercontent.com/sebastienlevert/sebastienlevert/master/assets/graph.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
