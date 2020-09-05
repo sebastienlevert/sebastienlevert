@@ -50,6 +50,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Webinar - 2020-03-24 - Build Your First Microsoft Teams App  Using SPFx](https://www.youtube.com/watch?v=hGGVUtAr--8)
+- [Join me at SharePoint Conference 2020!](https://www.youtube.com/watch?v=oAjD6FT8o3Q)
+- [[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx](https://www.youtube.com/watch?v=j-U7WuEQBig)
+- [[Office 365 Sparx] How to use search for your Hubsite data using the SharePoint Search API](https://www.youtube.com/watch?v=Yydlwq15gF8)
+- [[Office 365 Sparx] How to use the Browser Preview VS Code extension with #SPFx](https://www.youtube.com/watch?v=Ad8eq7gB4Cg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -59,6 +64,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free Webinar: Build your first Microsoft Teams App without a single line of code!](https://www.sebastienlevert.com/2020/08/18/free-webinar-build-your-first-microsoft-teams-app-without-a-single-line-of-code/)
+- [Find all pages utilizing the Microsoft 365 Learning Pathways web part](https://www.sebastienlevert.com/2020/06/05/find-all-pages-utilizing-the-microsoft-365-learning-pathways-web-part/)
+- [[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx](https://www.sebastienlevert.com/2020/01/16/office-365-sparx-use-the-forcelocale-parameter-to-debug-localizations-in-spfx/)
+- [Renewed as an Office Development MVP for a 5th time!](https://www.sebastienlevert.com/2019/07/02/renewed-as-an-office-development-mvp-for-a-5th-time/)
+- [[Office 365 Sparx] How to search for your Hubsite data using the SharePoint Search API](https://www.sebastienlevert.com/2019/04/23/office-365-sparx-how-to-search-for-your-hubsite-data-using-the-sharepoint-search-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
