@@ -20,11 +20,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test](https://www.sebastienlevert.com/2020/11/29/test/)
 - [New journey ahead... Joining the Microsoft Graph team!](https://www.sebastienlevert.com/2020/11/13/new-journey-ahead-joining-the-microsoft-graph-team/)
 - [Free Webinar: Build your first Microsoft Teams App without a single line of code!](https://www.sebastienlevert.com/2020/08/18/free-webinar-build-your-first-microsoft-teams-app-without-a-single-line-of-code/)
 - [Find all pages utilizing the Microsoft 365 Learning Pathways web part](https://www.sebastienlevert.com/2020/06/05/find-all-pages-utilizing-the-microsoft-365-learning-pathways-web-part/)
 - [[Office 365 Sparx] Use the forceLocale parameter to debug Localizations in SPFx](https://www.sebastienlevert.com/2020/01/16/office-365-sparx-use-the-forcelocale-parameter-to-debug-localizations-in-spfx/)
+- [Renewed as an Office Development MVP for a 5th time!](https://www.sebastienlevert.com/2019/07/02/renewed-as-an-office-development-mvp-for-a-5th-time/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
