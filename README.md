@@ -13,7 +13,8 @@
 
 ### Connect with me:
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)][twitter] &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin] &nbsp;&nbsp;[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&countColor=%232ea44f)][youtube]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)][twitter] &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;&nbsp;
+<a rel="me" href="https://fosstodon.org/@sebastienlevert">![Mastodon](https://img.shields.io/badge/mastodon-%23595aff.svg?&style=for-the-badge&logo=mastodon&logoColor=white)</a>&nbsp;&nbsp;[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&countColor=%232ea44f)][youtube]
 
 ---
 
