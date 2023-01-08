@@ -17,11 +17,9 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-%23595aff.svg?&style=for-the-badge&logo=mastodon&logoColor=white)][mastodon]
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f)][twitter]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&countColor=%232ea44f)][youtube]
 
 [website]: https://www.sebastienlevert.com
 [graph-website]: https://graph.microsoft.com
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsebastienlevert&screen_name=sebastienlevert
 [mastodon]: https://fosstodon.org/@sebastienlevert
-[youtube]: https://www.youtube.com/channel/UCnnGypiyUKntbpJQIFIOGNw
 [linkedin]: https://linkedin.com/in/sebastienlevert
