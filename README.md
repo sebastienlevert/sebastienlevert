@@ -5,7 +5,7 @@
 
 ### I'm a Husband, Developer, Architect and Product Manager!
 
-- 🔭 I’m currently working at [Microsoft][graph-website] as a Senior Program Manager on the #MicrosoftGraph 🦒 Developer Experience team!
+- 🔭 I’m currently working at [Microsoft][graph-website] as a Senior Product Manager on the #MicrosoftGraph 🦒 Developer Experience team!
 - 🌱 I’m currently learning all about HTTP and APIs!
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about Microsoft Graph, API Clients, Web Components, React and more!
