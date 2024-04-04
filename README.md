@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/badge/BLOG-sebastienlevert.com-%23455466.svg?&style=for-the-badge&logo=rss&logoColor=white)][website]
 [![Microsoft Graph](https://img.shields.io/badge/Microsoft-Senior%20Product%20Manager-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][graph-website]
 
-### I'm a Husband, Developer, Architect and Product Manager!
+### I'm a Developer, Architect and Product Manager!
 
-- 🔭 I’m currently working at [Microsoft][graph-website] as a Senior Product Manager on the #MicrosoftGraph 🦒 Developer Experience team!
+- 🔭 I’m currently working at Microsoft as a Principal Product Manager on the #Copilot for Microsoft 365 Developer Experience team!
 - 🌱 I’m currently learning all about HTTP and APIs!
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about Microsoft Graph, API Clients, Web Components, React and more!
