@@ -1,7 +1,7 @@
 ## Hi there, I'm Seb 👋
 
 [![Website](https://img.shields.io/badge/BLOG-sebastienlevert.com-%23455466.svg?&style=for-the-badge&logo=rss&logoColor=white)][website]
-[![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft-Principal-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][m365-copilot-website]
+[![Microsoft 365 Copilot](https://img.shields.io/badge/Microsoft-Principal%20Product%20Manager-%23F34F1C.svg?&style=for-the-badge&logo=microsoft&logoColor=white)][m365-copilot-website]
 
 ### I'm a Developer, Architect and Product Manager!
 
