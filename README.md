@@ -5,8 +5,7 @@
 
 ### I'm a Developer, Architect and Product Manager!
 
-- 🔭 I’m currently working at Microsoft as a Principal Product Manager on the Microsoft 365 Copilot Developer Experience, team focusing on our developer tooling!
-- 🌱 I’m currently learning all about Agent Skills, LLMs, evals and MCP!
+- 🔭 I’m currently working at Microsoft as a Principal Product Manager on the Microsoft 365 Copilot Developer Experience!
 - 💬 Ask me about Microsoft 365 Copilot, Agents, API Plugins, MCPs and more!
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I play drums 🥁
